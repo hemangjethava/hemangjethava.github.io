@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Deep machine learning fanatic!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Master's degree in Computer Science with specialisation in Data Science & Analytics from SEAS-AU Ahmedabad.
+Bachelor of Engineering in Information & Tech. from LDCE Ahmedabad.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jethava007@gmail.com](mailto:jethava007@gmail.com)
